@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib scikit-learn graphviz
 jupyter notebook
 
 3️⃣ Run Decision Tree Algorithm.ipynb cell by cell.
----
+```
 
 ✨ Why This Project?
 ✅ Offers a hands-on example of building and interpreting Decision Trees
